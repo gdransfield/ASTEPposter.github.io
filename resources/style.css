@@ -31,3 +31,6 @@ form {
     font-family: 'Raleway';
     font-size: 1rem;
 }
+.carousel-caption{
+    color: black;
+}
